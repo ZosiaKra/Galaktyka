@@ -1,3 +1,5 @@
 Mars jest czwarta planeta.
 
 Mars jest to czerwona planeta.
+
+To wszystko nie ulega watpliwosci.
